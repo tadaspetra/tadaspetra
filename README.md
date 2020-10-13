@@ -21,7 +21,7 @@
 
 </br>
 
-[![Tadas's github stats](https://github-readme-stats.vercel.app/api?username=tadaspetra&count_private=true&theme=buefy&show_icons=true)](https://github.com/tadaspetra)
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=tadaspetra&show_icons=true&theme=dark" /></p>
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadaspetra&layout=compact)](https://github.com/tadaspetra/)
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadaspetra&layout=compact&theme=dark" /></p>
