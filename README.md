@@ -1,4 +1,5 @@
-### Hi there 👋
+![Tadas Petra](https://user-images.githubusercontent.com/60107328/95801184-27be4580-0cbf-11eb-821b-5a2cba647c72.png)
+
 
 - I am Tadas Petra and I make youtube videos teaching flutter! My goal is to bring anybody including amateurs to be writing professional, well developed code. Hence the channel name [Amateur Coder](https://www.youtube.com/amateurcoder)
 - I have worked with flutter for over 2 years now! Using flutter is one of the most enjoyable experiences I've had with coding. And the simplicity amazes me.
