@@ -17,6 +17,9 @@
   <a href="http://youtube.com/amateurcoder?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/Mt41FpSS-Vo?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
+  <a href="http://twitch.tv/tadaspetra">
+    <img src="https://img.shields.io/twitch/status/tadaspetra?label=Twitch&logo=twitch&style=for-the-badge" />
+  </a>
 </p>
 
 </br>
