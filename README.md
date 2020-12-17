@@ -14,7 +14,7 @@
   <a href="https://discord.gg/CPwSezC">
     <img src="https://img.shields.io/discord/734858252939952248?logo=discord&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/amateurcoder?sub_confirmation=1">
+  <a href="http://youtube.com/tadaspetra?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/Mt41FpSS-Vo?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
   <a href="http://twitch.tv/tadaspetra">
