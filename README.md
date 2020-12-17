@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/discord/734858252939952248?logo=discord&style=for-the-badge" />
   </a>
   <a href="http://youtube.com/tadaspetra?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/Mt41FpSS-Vo?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/views/dmRH0ilEZxM?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
   <a href="http://twitch.tv/tadaspetra">
     <img src="https://img.shields.io/twitch/status/tadaspetra?label=Twitch&logo=twitch&style=for-the-badge" />
