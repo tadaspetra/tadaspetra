@@ -1,5 +1,4 @@
-![Tadas Petra](https://user-images.githubusercontent.com/60107328/95801273-766bdf80-0cbf-11eb-92ea-1f23a8587265.png)
-
+![patreonbanner](https://user-images.githubusercontent.com/60107328/110362791-54c11b00-8007-11eb-821f-b36011281f24.png)
 
 - I am Tadas Petra and I make youtube videos teaching flutter: [Tadas Petra](https://www.youtube.com/tadaspetra)! My goal is to help everybody from beginners to professional to get a good understanding of the fundamental coding topics that can be used for Flutter or any other framework or language. 
 - I have worked with flutter for over 2 years now! Using flutter is one of the most enjoyable experiences I've had with coding. And the simplicity amazes me.
