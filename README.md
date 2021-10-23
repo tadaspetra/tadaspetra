@@ -1,8 +1,8 @@
 ![patreonbanner](https://user-images.githubusercontent.com/60107328/110362791-54c11b00-8007-11eb-821f-b36011281f24.png)
 
-- I am Tadas Petra and I make youtube videos teaching flutter: [Tadas Petra](https://www.youtube.com/tadaspetra)! My goal is to help everybody from beginners to professional to get a good understanding of the fundamental coding topics that can be used for Flutter or any other framework or language. 
-- I have worked with flutter for over 3 years now! Using flutter is one of the most enjoyable experiences I've had with coding. And the simplicity amazes me.
-- I am also featured on the [Official Flutter Docs](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options#getx) for the GetX package. I have made a lot of videos on this package, and I think it makes flutter development even simpler
+- I am Tadas Petra and I make youtube videos: [Tadas Petra](https://www.youtube.com/tadaspetra)! My goal is to help people learn how to code in an entertaining way. 
+- I have worked with Flutter and Dart since 2018 and I am now a Flutter and Dart Google Developer Expert. 
+
 <p align="center">
   <a href="https://github.com/tadaspetra?tab=followers">
     <img src="https://img.shields.io/github/followers/tadaspetra?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
