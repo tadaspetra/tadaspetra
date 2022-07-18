@@ -1,7 +1,7 @@
 ![patreonbanner](https://user-images.githubusercontent.com/60107328/110362791-54c11b00-8007-11eb-821f-b36011281f24.png)
 
-- I am Tadas Petra and I make youtube videos: [Tadas Petra](https://www.youtube.com/tadaspetra)! My goal is to help people learn how to code in an entertaining way. 
-- I have worked with Flutter and Dart since 2018 and I am now a Flutter and Dart Google Developer Expert as well as a Developer Evangelist at Agora. 
+- I am Tadas Petra and I make youtube videos: [Tadas Petra](https://www.youtube.com/tadaspetra)! My goal is to inspire people to pursue their creativity through entertainment and education.
+- I have worked with Flutter and Dart since 2018 and I am now a Flutter and Dart Google Developer Expert as well as a Developer Advocate at Agora. 
 
 <p align="center">
   <a href="https://github.com/tadaspetra?tab=followers">
