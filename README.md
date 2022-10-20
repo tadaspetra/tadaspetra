@@ -1,6 +1,6 @@
 <img width="1922" alt="tadaspetra banner" src="https://user-images.githubusercontent.com/60107328/179571946-c44fa8c0-c74b-4876-bc0c-6da232a71d51.png">
 
-- I am Tadas Petra and I make videos: [Tadas Petra](https://www.youtube.com/tadaspetra)!
+- I make videos -> [Tadas Petra](https://www.youtube.com/tadaspetra)
 - Google Developer Expert for Flutter and Dart
 - Lead Developer Advocate at Agora. 
 
