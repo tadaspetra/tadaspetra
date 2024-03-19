@@ -1,8 +1,8 @@
 <img width="1922" alt="tadaspetra banner" src="https://user-images.githubusercontent.com/60107328/179571946-c44fa8c0-c74b-4876-bc0c-6da232a71d51.png">
 
-- I make videos -> [Tadas Petra](https://www.youtube.com/tadaspetra)
+- Building [Hungrimind](https://hungrimind.com)
 - Google Developer Expert for Flutter and Dart
-- Lead Developer Advocate at Agora. 
+- Developer Relations Manager at Agora. 
 
 <p align="center">
   <a href="https://github.com/tadaspetra?tab=followers">
@@ -10,9 +10,6 @@
   </a>
   <a href="http://twitter.com/tadaspetra">
     <img src="https://img.shields.io/twitter/follow/tadaspetra?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://discord.gg/CPwSezC">
-    <img src="https://img.shields.io/discord/734858252939952248?logo=discord&style=for-the-badge" />
   </a>
   <a href="http://youtube.com/tadaspetra?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCNaJHBXsvbfkItVMNmzmTPQ?style=for-the-badge" />
