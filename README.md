@@ -2,7 +2,7 @@
 
 - Building [Hungrimind](https://hungrimind.com)
 - Google Developer Expert for Flutter and Dart
-- Developer Relations Manager at Agora. 
+- Developer Relations Manager at Agora
 
 <p align="center">
   <a href="https://github.com/tadaspetra?tab=followers">
