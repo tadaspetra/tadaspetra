@@ -2,7 +2,6 @@
 
 - Building [Hungrimind](https://hungrimind.com)
 - Google Developer Expert for Flutter and Dart
-- Developer Advocate at Agora
 
 <p align="center">
   <a href="https://github.com/tadaspetra?tab=followers">
