@@ -1,5 +1,3 @@
-<img width="1922" alt="tadaspetra banner" src="https://user-images.githubusercontent.com/60107328/179571946-c44fa8c0-c74b-4876-bc0c-6da232a71d51.png">
-
 - Building [Hungrimind](https://hungrimind.com)
 - Google Developer Expert for Flutter and Dart
 
@@ -17,7 +15,3 @@
     <img src="https://img.shields.io/twitch/status/tadaspetra?label=Twitch&logo=twitch&style=for-the-badge" />
   </a>
 </p>
-
-</br>
-
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=tadaspetra&show_icons=true&theme=dark" /></p>
